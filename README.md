@@ -4,12 +4,11 @@ Comprehensive list of scholarships awarded by various organizations to women in 
 
 | Name | Sponsoring Orgnanization | Eligibilty | Link |
 |----------|-------------|------------------|------------|
-| Women In Technology | Adobe India | Enrolled as a student or intend to enroll in the next academic year | [Website](http://www.adobe.com/careers/university/india-women-tech.html) |
+| Women In Technology | Adobe | Enrolled as a student or intend to enroll in the next academic year | [Website](https://research.adobe.com/scholarship/) [Website (India)](http://www.adobe.com/careers/university/india-women-tech.html)|
 | Pass-It-On Awards | Anita Borg Institute | Any woman over 18 years old in or aspiring to be in the field of computing | [Website](http://anitaborg.org/awards-grants/pass-it-on-awards-program/) |
 | Women TechMaker | Google | Undergraduate or Postgraduate Student | [Website](https://www.womentechmakers.com/scholars) |
 | Scholarship Program | Microsoft | Enrolled full time in a bachelor’s degree program at a four-year college or university in North America | [Website](https://careers.microsoft.com/students/scholarships) |
-| Scholarship Program | Microsoft | Enrolled full time in a bachelor’s degree program at a four-year college or university in North America | [Website](https://careers.microsoft.com/students/scholarships) |
-| Adobe Women in Technology | Women in Technology | Undergraduate Student | [Website](https://research.adobe.com/scholarship/) |
+
 The following scholarships encourage students to contribute to open source projects and receive a fixed stipend or one time monetary award for their work. 
 
 | Name | Sponsoring Organization | Link | Women Exclusive |
